@@ -1,0 +1,6 @@
+# Basic requirements
+requests==2.31.0
+
+# Optional libraries
+# python-dotenv==1.0.0  
+# matplotlib==3.7.1    

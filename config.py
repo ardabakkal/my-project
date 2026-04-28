@@ -1,0 +1,2 @@
+API_KEY = "7d0ac3f4477b561d542f2af5ba3c3bc6" 
+DEFAULT_CURRENCIES = ["USD", "EUR", "TRY", "GBP", "JPY", "CAD"]
